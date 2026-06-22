@@ -15,3 +15,22 @@ An AI-powered Resume Analysis platform built using **Python** and **Streamlit** 
 - 📥 PDF Report Generation
 
 ---
+## 📸 Application Screenshots
+
+### 🏠 Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### 📄 Resume Analyzer
+
+![Resume Analyzer](screenshots/resume_analyzer.png)
+
+---
+
+### 📊 Analysis Dashboard
+
+![Analysis Dashboard](screenshots/analysis_dashboard.png)
+
+---
